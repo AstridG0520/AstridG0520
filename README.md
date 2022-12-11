@@ -6,7 +6,7 @@ Soy estudiante de la carrera de Economía en  la Pontificia Universidad Católic
 ## Idiomas
 - Inglés
 - Español
-- 
+
 ## Habilidades blandas
 - Responsable
 -  Disciplinada
