@@ -17,5 +17,5 @@ Soy estudiante de la carrera de Economía en  la Pontificia Universidad Católic
 ## Programación competitiva
 ![WhatsApp Image 2022-12-11 at 15 46 10](https://user-images.githubusercontent.com/112422112/206927922-542ffc86-9c3b-439c-bea9-a7d61fc800c2.jpeg)
 
-Usando ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
+Usando  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) 
  
